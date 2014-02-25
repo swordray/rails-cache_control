@@ -1,0 +1,6 @@
+*~
+*.swp
+.rvmrc
+.bundle
+tmp
+.DS_Store
