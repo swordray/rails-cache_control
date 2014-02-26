@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.author            = ["Jianqiu Xiao"]
   s.email             = ["swordray@gmail.com"]
   s.homepage          = "https://github.com/swordray/rails-cache_control"
-  s.summary           = "Automatically set Cache-control header when caches_action expires_in specified."
+  s.summary           = "Automatically add HTTP Cache-control header when caches_action expires_in specified."
   s.description       = "Thanks to ihaveu.com team."
   s.license           = "MIT"
 
