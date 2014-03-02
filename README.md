@@ -22,10 +22,13 @@ gem 'rails-cache_control'
 
 Do nothing.
 
+## Contributors
+
+Special thanks to
+
+* http://www.ihaveu.com/home team
+* http://www.shuhai.org/ team
+
 ## License
 
 Copyright © 2014 Jianqiu Xiao <swordray@gmail.com> under The [MIT License](http://opensource.org/licenses/MIT).
-
-## Thanks
-
-Special thanks to http://www.shuhai.org/ team.
