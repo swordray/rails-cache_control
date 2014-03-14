@@ -22,9 +22,7 @@ gem 'rails-cache_control'
 
 Do nothing.
 
-## Contributors
-
-Special thanks to
+## Credits
 
 * http://www.ihaveu.com/home team
 * http://www.shuhai.org/ team
