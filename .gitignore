@@ -2,6 +2,6 @@
 *.swp
 .rvmrc
 .bundle
-Gemfile
+Gemfile.lock
 tmp
 .DS_Store
