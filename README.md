@@ -2,7 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/rails-cache_control.png)](http://badge.fury.io/rb/rails-cache_control) [![Build Status](https://secure.travis-ci.org/swordray/rails-cache_control.png?branch=master)](http://travis-ci.org/swordray/rails-cache_control) [![Dependency Status](https://gemnasium.com/swordray/rails-cache_control.png?travis)](https://gemnasium.com/swordray/rails-cache_control) [![Code Climate](https://codeclimate.com/github/swordray/rails-cache_control.png)](https://codeclimate.com/github/swordray/rails-cache_control)
 
-Automatically add HTTP Cache-control header when [caches_action](https://github.com/rails/actionpack-action_caching) +expires_in+ specified.
+Automatically add HTTP Cache-control header when [caches_action](https://github.com/rails/actionpack-action_caching) :expires_in specified.
 
 ## Requirements
 
@@ -24,7 +24,7 @@ Do nothing.
 
 ## Credits
 
-* swordray @[ihaveu](http://www.ihaveu.com/home) @[shuhai](http://tw.shuhai.org/) @[leaf](http://leaf.iacger.com)
+* [swordray](https://github.com/swordray) @[ihaveu](http://www.ihaveu.com/home) @[shuhai](http://tw.shuhai.org/) @[leaf](http://leaf.iacger.com)
 
 ## License
 
