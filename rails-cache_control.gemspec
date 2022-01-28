@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.platform          = Gem::Platform::RUBY
   s.author            = ["Jianqiu Xiao"]
   s.email             = ["swordray@gmail.com"]
-  s.homepage          = "https://github.com/swordray/rails-cache_control"
+  s.homepage          = "https://bailushuyuan.org"
   s.summary           = "Automatically add HTTP Cache-control header when caches_action expires_in specified."
   s.description       = "Significantly improve cached action reload speed."
   s.license           = "MIT"
